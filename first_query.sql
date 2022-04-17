@@ -14,7 +14,7 @@ SELECT * FROM employees;
 
 SELECT first_name||' '||last_name FROM employees;
 
-SELECT first_name||' '||last_name FL_Name FROM employees;
+SELECT first_name||' '||last_name AS "FL Name" FROM employees;
 
 SELECT first_name nnn FROM employees;
 
