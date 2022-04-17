@@ -1,0 +1,1 @@
+SELECT DISTINCT job_id, department_id FROM job_history;
